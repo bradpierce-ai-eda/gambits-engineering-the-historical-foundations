@@ -1,0 +1,19 @@
+{
+  "title": "Gambits Engineering: The Historical Foundations",
+  "author": "Brad Pierce",
+  "resource_type": "book",
+  "publication_date": "2026-11-04",
+  "doi": "10.5281/zenodo.23768293",
+  "concept_doi": "10.5281/zenodo.23768292",
+  "zenodo_record": "https://zenodo.org/records/23768293",
+  "source_pdf_filename": "gambits-engineering-the-historical-foundations.pdf",
+  "source_pdf_bytes": 10502084,
+  "source_pdf_sha256": "011a781da19a29549f1affda04a8dc1cdd6c3548d83ebaf8c61a17406c21f974",
+  "source_pdf_md5": "639072fff60ac5d2ff82bdd8527c8a18",
+  "source_pdf_pages": 690,
+  "rights_record": "Zenodo: free-to-read; PDF visible notice: © 2026 Brad Pierce. All rights reserved.",
+  "public_release": "Authorized by Brad Pierce on 6 November 2026. Zenodo v1 remains the publication of record.",
+  "canonical_url": "PROPOSED https://bradpierce.ai/gambits-engineering-the-historical-foundations/",
+  "source_method": "PyMuPDF 1.x extract source PDF text blocks, no changes to publication assertions",
+  "candidate_assembly_md": "NOT USED; stale 98-section copy"
+}
