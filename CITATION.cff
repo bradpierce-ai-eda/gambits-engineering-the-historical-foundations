@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "The DOI-linked Zenodo book is the publication of record."
+type: book
+title: "Gambits Engineering: The Historical Foundations"
+authors:
+  - family-names: Pierce
+    given-names: Brad
+date-released: 2026-11-04
+doi: 10.5281/zenodo.23768293
+url: https://doi.org/10.5281/zenodo.23768293
+preferred-citation:
+  type: book
+  title: "Gambits Engineering: The Historical Foundations"
+  authors:
+    - family-names: Pierce
+      given-names: Brad
+  date-published: 2026-11-04
+  doi: 10.5281/zenodo.23768293
